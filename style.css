@@ -1,0 +1,252 @@
+body{
+
+  background-color: #201b2e;
+
+}
+
+#s{
+
+  background-color: #4b3f6b;
+
+  position: absolute;
+
+    top: 0;
+
+    right: 0;
+
+    bottom: 0;
+
+    left: 0;
+
+    margin: 0;
+
+    padding: 0;
+
+  height: 44px;
+
+}
+
+#ss{
+
+padding: 5px;
+
+  text-decoration: none;
+
+  margin-right: 12px;
+
+  float: right;
+
+color: white;
+
+margin-top: 6px ;
+
+  font-family: 'Lato' ,sans-serif;
+
+  text-shadow: 2px 2px 4px #000000;
+
+  font-size: 20px;
+
+}
+
+#l{
+
+  margin-left: 18px;
+
+  color: white;
+
+  margin-top: 6px;
+
+  font-family: 'Rubik Mono One', sans-serif;
+
+}
+
+#h{
+
+  text-align: center;
+
+  color: white;
+
+  margin-top: 120px;
+
+ font-family: 'Mitr', sans-serif;
+
+}
+
+#hh{
+
+color: white;
+
+  text-align: center;
+
+  margin-top: 15px;
+
+  font-family: 'Mitr', sans-serif;
+
+}
+
+#dd{
+
+  display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+}
+
+#d{
+
+  color: white;
+
+  background-color: #ab8cff;
+
+  border-radius: 10%;
+
+  font-size: 25px;
+
+  padding: 5px;
+
+  text-decoration: none;
+
+  font-family: 'Mukta Malar', sans-serif;
+
+}
+
+#c{
+
+  position: absolute;
+
+    top: 0;
+
+    right: 0;
+
+    bottom: 0;
+
+    left: 0;
+
+    margin: 0;
+
+    padding: 0;
+
+  height: 800px;
+
+  margin-top: 350px;
+
+  background-color: #4b3f6b;
+
+}
+
+#q{
+
+  text-align: center;
+
+  color: white;
+
+  font-family: 'Ramabhadra', sans-serif;
+
+}
+
+#w{
+
+      text-align: center;
+
+  color: #ff8cfb;
+
+  font-family: 'Ramabhadra', sans-serif;
+
+}
+
+#we{
+
+  display: block;
+
+  margin-left: auto;
+
+  margin-right: auto;
+
+  width: 330px;
+
+border-radius: 8%;
+
+}
+
+#ww{
+
+  text-align: center;
+
+  color: white;
+
+  font-family: 'Ramabhadra', sans-serif;
+
+  margin-top: 12px;
+
+}
+
+#bu{
+
+  text-align: center;
+
+  color: white;
+
+  font-family: 'Ramabhadra', sans-serif;
+
+  margin-top: 56px;
+
+}
+
+#co{
+
+  text-align: center;
+
+  color: white;
+
+  margin-top: 280px;
+
+}
+
+#bi{
+
+text-align: center;
+
+  color: white;
+
+  font-family: 'Ramabhadra', sans-serif;
+
+  font-size: 48px;
+
+}
+
+#x{
+
+   position: absolute;
+
+    top: 0;
+
+    right: 0;
+
+    bottom: 0;
+
+    left: 0;
+
+    margin: 0;
+
+    padding: 0;
+
+  height: 300px;
+
+  margin-top: 350px;
+
+  background-color: #4b3f6b;
+
+}
+
+#oo{
+
+  text-align: center;
+
+  color: white;
+
+  margin-top: 100px;
+
+}
+
